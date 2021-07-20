@@ -1,16 +1,16 @@
-### Hi there 👋
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Ming #jadokao
 
-<!--
-**jadokao/jadokao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ming. I'm a person enjoy learning new things. I hope to make the world better by programming and passion.
 
-Here are some ideas to get you started:
+## 🤓 My values
+🍏 Beginner in HTML, CSS , Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Goals of 2021
+
+I want to be a back-end engineer this year.
+
+## 📚 Langues and Frameworks
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
