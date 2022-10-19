@@ -4,7 +4,7 @@ Hi, I'm Ming. I'm a person enjoy learning new things. I hope to make the world b
 
 ## 🔭 Goals of 2022
 
-I want to be a back-end engineer in this year.
+I want to become a better back-end engineer in this year.
 
 ## 📚 Langues and Frameworks
 <a href="https://html.com/">
